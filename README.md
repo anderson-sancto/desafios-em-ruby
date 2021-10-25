@@ -1,1 +1,1 @@
-# desafios-em-ruby
+Lógica de programação básica em ruby. Desafios variados.
